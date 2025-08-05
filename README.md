@@ -7,9 +7,10 @@ Soy Jaime Pérez (jimmy). Actualmente, soy estudiante de Ingeniería Industrial 
   - 🏫 : jaime.pperez@alumnos.upm.es
 
 🔭 En mis repositorios, se encuentra un proyecto de programación de microcontroladores AVR utilizando C.
+
 🌱 Actualmente, estoy aprendiendo a programar en python y el uso de git. 
 
-Gracias❗❗
+
 <!--
 **jimmyperezp/jimmyperezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
