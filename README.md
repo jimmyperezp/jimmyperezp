@@ -1,7 +1,10 @@
 ## Hola! 👋
 
-Soy Jaime Pérez ,Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid. 
+Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid. 
 
+# Sobre mí:
+
+📚 Universidad Politécnica de Madrid
 📫 Contacto:
   - 📨 : jaimeperezzp@gmail.com
   - 🏫 : jaime.pperez@alumnos.upm.es
@@ -26,7 +29,15 @@ Soy Jaime Pérez ,Jimmy. Actualmente, soy estudiante de Ingeniería Industrial e
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyperezp&theme=react&layout=compact" />
 </p>
 
-
+#### Popular Projects
+<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
+</a>    
+<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+</a>
 <!--
 **jimmyperezp/jimmyperezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
