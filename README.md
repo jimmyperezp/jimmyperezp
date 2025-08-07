@@ -5,8 +5,9 @@ Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial e
 
 ### Sobre mí:
 
-📚 Universidad Politécnica de Madrid
-📫 Contacto:
+- 📚 Estudio en la Universidad Politécnica de Madrid
+
+- 📫 Contacto:
   - 📨 : jaimeperezzp@gmail.com
   - 🏫 : jaime.pperez@alumnos.upm.es
 
