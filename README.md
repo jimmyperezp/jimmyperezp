@@ -1,6 +1,6 @@
 ## Hola! 👋
 
-Soy Jaime Pérez (jimmy). Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid. 
+Soy Jaime Pérez ,Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid. 
 
 📫 Contacto:
   - 📨 : jaimeperezzp@gmail.com
