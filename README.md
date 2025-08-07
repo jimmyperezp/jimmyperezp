@@ -1,4 +1,5 @@
-## Hola! 👋
+<p align="center">
+  <h1 align="center"> Hola!!👋</h1>
 
 Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid. 
 
