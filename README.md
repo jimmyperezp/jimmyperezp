@@ -2,7 +2,7 @@
 
 Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid. 
 
-# Sobre mí:
+### Sobre mí:
 
 📚 Universidad Politécnica de Madrid
 📫 Contacto:
@@ -16,7 +16,7 @@ Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial e
 
 <h3 align="center">Languages and Tools:</h3>
 
-<p align="center"> 
+<p align="left"> 
 
   <a href="https://www.python.org" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -34,9 +34,9 @@ Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial e
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
 </a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
+<a href="https://github.com/jimmyperezp/Trabajo-Micros-Parte-2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jimmyperezp&repo=jimmyperezp.github.io&theme=onedark"/>
 </a>
 <!--
 **jimmyperezp/jimmyperezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
