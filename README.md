@@ -14,7 +14,7 @@ Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial e
 🌱 Actualmente, estoy aprendiendo a programar en python y el uso de git. 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
 
@@ -29,15 +29,7 @@ Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial e
   <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimmyperezp&theme=react&layout=compact" />
 </p>
 
-#### Popular Projects
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
-</a>    
-<a href="https://github.com/jimmyperezp/Trabajo-Micros-Parte-2">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=jimmyperezp&repo=jimmyperezp.github.io&theme=onedark"/>
-</a>
+
 <!--
 **jimmyperezp/jimmyperezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
