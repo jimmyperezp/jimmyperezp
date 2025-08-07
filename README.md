@@ -1,19 +1,22 @@
 <p align="center">
-  <h1 align="center"> Hola!!👋</h1>
+  <h1 align="center"> Hola!! Bienvenido al perfil de Jimmy!!👋</h1>
 
-Soy Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid. 
+Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
-### Sobre mí:
+🔭 He trabajado con proyectos de programación de microcontroladores AVR utilizando C.
 
-- 📚 Estudio en la Universidad Politécnica de Madrid
+🌱 Actualmente, estoy aprendiendo a programar en python y el funcionamiento y uso de git.
 
-- 📫 Contacto:
+🌟 Me interesa el desarrollo hardware, desde el diseño hasta la programación del microcontrolador.
+
+
+### Contacto:
+
+- 📫 E-mail:
   - 📨 : jaimeperezzp@gmail.com
   - 🏫 : jaime.pperez@alumnos.upm.es
 
-🔭 En mis repositorios, se encuentra un proyecto de programación de microcontroladores AVR utilizando C.
 
-🌱 Actualmente, estoy aprendiendo a programar en python y el uso de git. 
 
 
 
