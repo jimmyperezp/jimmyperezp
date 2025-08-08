@@ -26,7 +26,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 <p align="left"> 
 
-  <a href="https://www.python.org" target="blank"> 
+
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg" alt="c-original" width="40" height="40"/> 
   <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg" alt="cplusplus" width="40" height="40"/> 
