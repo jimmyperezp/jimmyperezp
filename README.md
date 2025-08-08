@@ -16,19 +16,12 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 🌟 Me interesa la programación, la electrónica y el desarrollo hardware
 
 <br><br/>
-
-
-
 ### Contacto:
 
 - 📫 **E-mail**:
   - 📨 : jaimeperezzp@gmail.com
   - 🏫 : jaime.pperez@alumnos.upm.es
-
-
-
 <br><br/>
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -44,11 +37,12 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
   <img src="https://github.com/jimmyperezp/Trabajo-Micros-Parte-2/blob/main/MStudio_logo.png" alt="microchip" width ="40" height="40"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyperezp&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyperezp" /> </p>
+
 
 <br><br/>
 
-<div/>
+----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyperezp&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyperezp" /> </p>
 Última Modificación: 08/08/2025
 
   
