@@ -1,6 +1,7 @@
 <p align="center">
   <h1 align="center"> Hola!! soy Jimmy 👋😃  </h1>
 
+:tw-1f393:
 
 Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
