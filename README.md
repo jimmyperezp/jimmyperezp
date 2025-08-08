@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<div align="center" width="100">
+<div align="center" width="200">
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hola!!%20Soy%20Jimmy&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
