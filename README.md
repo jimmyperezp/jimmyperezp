@@ -6,7 +6,7 @@
 
 <div align="left" width="100">
 
-### About me:
+
 
 Bienvenid@!! Mi nombre es Jaime Pérez, Jimmy. 
 
@@ -25,7 +25,7 @@ Bienvenid@!! Mi nombre es Jaime Pérez, Jimmy.
   - 🏫 : jaime.pperez@alumnos.upm.es
 
 
-### Languages and tools:
+### Lenguajes y herramientas:
 <p align="left"> 
 
 
