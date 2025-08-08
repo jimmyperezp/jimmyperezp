@@ -4,11 +4,11 @@
   alt="header"/>
 </div>
 
-<div align="left" width="100">
+
 <p align="center">
   <h1 align="center"> Hola!! soy Jimmy <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  </h1>
 
-
+<div align="left" width="100">
 Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
 🔭 He trabajado con proyectos de programación de **microcontroladores** AVR utilizando C (en Microchip Studio).
