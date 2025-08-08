@@ -1,6 +1,7 @@
 <p align="center">
   <h1 align="center"> Hola!! soy Jimmy 👋😃  </h1>
 
+<br><br/>
 
 
 
@@ -14,7 +15,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 🌟 Me interesa la programación, la electrónica y el desarrollo hardware
 
-
+<br><br/>
 
 
 
@@ -26,7 +27,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 
 
-
+<br><br/>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -45,7 +46,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyperezp&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyperezp" /> </p>
 
-
+<br><br/>
 
 <div/>
 Última Modificación: 08/08/2025
