@@ -34,8 +34,6 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 
 
-<br><br/>
-
 ----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyperezp&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyperezp" /> </p>
 Última Modificación: 08/08/2025
