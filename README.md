@@ -3,6 +3,8 @@
 
 
 
+
+
 Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
 🔭 He trabajado con proyectos de programación de **microcontroladores** AVR utilizando C (en Microchip Studio).
@@ -12,11 +14,15 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 🌟 Me interesa la programación, la electrónica y el desarrollo hardware
 
 
+
+
+
 ### Contacto:
 
 - 📫 **E-mail**:
   - 📨 : jaimeperezzp@gmail.com
   - 🏫 : jaime.pperez@alumnos.upm.es
+
 
 
 
@@ -38,9 +44,13 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyperezp&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyperezp" /> </p>
 
+
+
 <div/>
 Última Modificación: 08/08/2025
-<!--
+
+  
+  <!--
 **jimmyperezp/jimmyperezp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
   
