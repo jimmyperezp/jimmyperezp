@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center"> Hola!! soy Jimmy 👋😃  </h1>
 
-<br><br/>
+
 
 Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
@@ -11,7 +11,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 🌟 Me interesa la programación, la electrónica y el desarrollo hardware
 
-<br><br/>
+
 ### Contacto:
 
 - 📫 **E-mail**:
