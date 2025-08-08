@@ -2,7 +2,6 @@
   <h1 align="center"> Hola!! soy Jimmy 👋😃  </h1>
 
 
-
 Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
 🔭 He trabajado con proyectos de programación de **microcontroladores** AVR utilizando C (en Microchip Studio).
