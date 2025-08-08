@@ -1,8 +1,10 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hola!!,%20Soy%20Jimmy&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Hola!!%20Soy%20Jimmy&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
   alt="header"/>
 </div>
+
+<div align="center" width="100">
 <p align="center">
   <h1 align="center"> Hola!! soy Jimmy <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  </h1>
 
@@ -38,7 +40,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width ="40" height="40"/>
 
 
-
+<div/>
 
 ----
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimmyperezp&label=Profile%20views&color=0e75b6&style=flat" alt="jimmyperezp" /> </p>
