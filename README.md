@@ -1,5 +1,10 @@
+<!-- HEADER -->
+<div align="center" width="100">
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
+</div>
 <p align="center">
-  <h1 align="center"> Hola!! soy Jimmy 👋😃  </h1>
+  <h1 align="center"> Hola!! soy Jimmy <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30">  </h1>
 
 :tw-1f393:
 
@@ -30,6 +35,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
   <img src="https://github.com/jimmyperezp/Trabajo-Micros-Parte-2/blob/main/MStudio_logo.png" alt="microchip" width ="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width ="40" height="40"/>
 
 
 
