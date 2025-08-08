@@ -4,7 +4,7 @@
 
 
 
-
+<p></p>
 Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
 🔭 He trabajado con proyectos de programación de **microcontroladores** AVR utilizando C (en Microchip Studio).
@@ -16,7 +16,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 
 
-
+<p></p>
 ### Contacto:
 
 - 📫 **E-mail**:
@@ -26,7 +26,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 
 
-
+<p></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
