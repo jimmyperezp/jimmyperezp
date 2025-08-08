@@ -1,11 +1,11 @@
 <p align="center">
-  <h1 align="center"> Hola!! Bienvenid@ a mi perfil 👋😃  </h1>
+  <h1 align="center"> Hola!! soy Jimmy 👋😃  </h1>
 
 
 
 Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
-🔭 He trabajado con proyectos de programación de microcontroladores AVR utilizando C.
+🔭 He trabajado con proyectos de programación de microcontroladores AVR utilizando C (en Microchip Studio).
 
 🌱 Actualmente, estoy aprendiendo a programar en python y el funcionamiento y uso de git.
 
@@ -30,9 +30,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
 
 - 📫 How to reach me **jaimeperezzp@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 
@@ -49,6 +47,7 @@ Mi nombre es Jaime Pérez, Jimmy. Actualmente, soy estudiante de Ingeniería Ind
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <img src="https://www.microchip.com/en-us/tools-resources/develop/microchip-studio/_jcr_content/root/responsivegrid/container/isolatedimage_copy_1383207527/image.coreimg.png/1629228620619/mchp-studio-logo.png" alt="microchip" width ="40" height="40"/>
 
 
 
