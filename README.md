@@ -6,7 +6,7 @@
 
 <div align="left" width="100">
 
-Hola!! Mi nombre es Jaime Pérez, Jimmy. 
+Bienvenid@!! Mi nombre es Jaime Pérez, Jimmy. 
 
 - 📚 Soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
 
