@@ -6,6 +6,8 @@
 
 <div align="left" width="100">
 
+### About me:
+
 Bienvenid@!! Mi nombre es Jaime Pérez, Jimmy. 
 
 - 📚 Soy estudiante de Ingeniería Industrial en la Universidad Politécnica de Madrid
@@ -23,18 +25,17 @@ Bienvenid@!! Mi nombre es Jaime Pérez, Jimmy.
   - 🏫 : jaime.pperez@alumnos.upm.es
 
 
-<h3 align="left">Languages and Tools:</h3>
-
+### Languages and tools:
 <p align="left"> 
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg" alt="c-original" width="40" height="40"/> 
-  <img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg" alt="cplusplus" width="40" height="40"/> 
+  <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/c-original.svg" alt="c-original" width="40" height="40"/> 
+  <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/cpp.svg" alt="c++" width="40" height="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-  <img src="https://github.com/jimmyperezp/Trabajo-Micros-Parte-2/blob/main/MStudio_logo.png" alt="microchip" width ="40" height="40"/>
+  <img src="https://github.com/jimmyperezp/jimmyperezp/blob/main/MStudio_logo.png" alt="microchip" width ="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width ="40" height="40"/>
 
 
