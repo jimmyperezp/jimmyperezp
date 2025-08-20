@@ -14,7 +14,9 @@ Bienvenid@!! Mi nombre es Jaime Pérez, Jimmy.
 
 - 🔭 He trabajado con proyectos de programación de **microcontroladores** AVR utilizando C (en Microchip Studio).
 
-- 🌱 Actualmente, estoy aprendiendo a programar en **python** y el funcionamiento y uso de **git**.
+- ⚡ Entre mis últimos logros, incluyo haber aprendido el uso y funcionamiento de **Git**.
+
+- 🌱 Actualmente, estoy aprendiendo a programar en **Python**.
 
 - 🌟 Me interesa la programación, la electrónica y el desarrollo hardware
 
